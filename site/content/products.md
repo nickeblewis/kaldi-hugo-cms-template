@@ -1,11 +1,11 @@
 ---
-title: Our Coffee
+title: Our Code
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
+  H4C is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
@@ -13,7 +13,7 @@ intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
+        We sell yellow and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
@@ -40,8 +40,8 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
+    H4C is the ultimate spot for coffee lovers who want to learn about their
+    javascript’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
 main:
@@ -69,6 +69,12 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
+  - author: Norman Baxter
+    quote: I especially love the fact that their coffee tastes of cheese
+  - author: Rupert Crispin
+    quote: >-
+      I have been growing my beard especially for this and now I feel like a
+      proper Hipster. I love tweed
 full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
