@@ -1,6 +1,6 @@
 ---
 title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+date: 2017-04-13T15:04:10+01:00
 description: >-
   Brewing with a Nick Chemex probably seems like a complicated, time-consuming
   ordeal, but once you get used to the process, it becomes a soothing ritual
@@ -20,6 +20,7 @@ The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conica
 2. Use a scale, don’t try to eyeball it.
 3. Never skip preheating the glass.
 4. Timing is key, don’t forget the clock.
+5. something else I guess, why not?!
 
 The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
 
