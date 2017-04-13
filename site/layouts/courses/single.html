@@ -1,0 +1,16 @@
+{{ partial "head" . }}
+{{ partial "nav" . }}
+{{ partial "jumbotron" (dict "imageUrl" "/img/illustrations/iStock-625309490.jpg" "title" "Courses") }}
+
+<div class="mw7 center ph3 pt4">
+
+  {{ partial "media-block" (dict "heading" "Meet the JAMStack" "text" "For many years we have been building websites that have depended on the presence of a back-end. There is now an alternative way, that doesn't require any database at all. It is called the JAMStack and is totally revolutionary. We teach you how you can build sites this new way and it will blow your mind." "imageUrl" "/img/about/jamstack.png") }}
+
+  {{ partial "media-block-reverse" (dict "heading" "Master GraphQL" "text" "Back-ends do still matter for some projects and we break the mould once again by introducing you to something else revolutionary. This time we are challenging you to question the value of REST in a world where GraphQL is kicking up a storm!" "imageUrl" "/img/about/GraphQL-Apollo.jpg") }}
+
+  {{ partial "media-block" (dict "heading" "Master CSS" "text" "We believe in making sites look great and we explore how we can work with glorious typography and great layouts courtesy of CSS tools such as Tachyons. We also take a look at the state of moder pre-processors such as SASS. Plus a lot more." "imageUrl" "/img/about/css.jpg") }}
+
+  {{ partial "media-block-reverse" (dict "heading" "Master React" "text" "React is beautiful because you can build both web and native apps with it. It is very versatile but does have a slightly steep learning curve for those whom are new to it. We can help make learning this great library a breeze and great fun at the same time." "imageUrl" "/img/about/react.png") }}
+</div>
+
+{{ partial "footer" . }}

@@ -2,48 +2,27 @@
 title: Our Services
 type: services
 page: /services.html
-image: /img/products/jumbotron.jpg
+image: /img/products/iStock-518310016.jpg
 heading: What we offer
 description: >-
-  H4C is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Write about what we offer here
 intro:
   blurbs:
-    - image: /img/illustrations/coffee.svg
+    - image: /img/illustrations/iStock-505021766.jpg
       text: >
-        We sell yellow and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations/coffee-gear.svg
+        One aspect of being a developer, is that you, though you may not realise it, are a Researcher. We spend a lot of our time exploring ways of solving problems. So much so, that at times one thing leads to another and keeping track of where you are in the grand scheme of things is hard. We want to help solve this problem.
+    - image: /img/illustrations/iStock-505642128.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations/tutorials.svg
+        We are working more frequently with other Developers, ranging from apprentices, through to highly experienced professionals. Most of these people face the same daily challenges as we do. Mentoring is a great way of helping people learn based on our own knowledge and experiences. In return we often learn quite a lot from the people we teach.
+    - image: /img/illustrations/iStock-492097416.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations/meeting-space.svg
+        We our passionate about understanding our clients, learning about the problems you need solutions for, helping you achieve what you need to get done. This is where we realise the time spent researching ways of doing things, pays off.
+    - image: /img/illustrations/iStock-492097416.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        TO BE DECIDED
   heading: What we offer
   description: >
-    H4C is the ultimate spot for coffee lovers who want to learn about their
-    javascript’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Write about what we offer here
 main:
   heading: Education in code
   description: >
