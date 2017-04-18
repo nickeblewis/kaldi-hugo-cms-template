@@ -1,6 +1,5 @@
 baseurl = "/"
 languageCode = "en-gb"
 title = "Homepage"
-[Params]
-    disqusShortname = "head4code"
-    googleAnalytics="UA-86079311-2"
+disqusShortname = "head4code"
+googleAnalytics="UA-86079311-2"
