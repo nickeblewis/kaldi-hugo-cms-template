@@ -9,21 +9,17 @@ description: >-
 intro:
   blurbs:
     - image: /img/illustrations/iStock-505021766.jpg
-      subheading: Hey
+      subheading: Research
       text: >
         One aspect of being a developer, is that you, though you may not realise it, are a Researcher. We spend a lot of our time exploring ways of solving problems. So much so, that at times one thing leads to another and keeping track of where you are in the grand scheme of things is hard. We want to help solve this problem.
     - image: /img/illustrations/iStock-505642128.jpg
-      subheading: Research
+      subheading: Mentoring
       text: >
         We are working more frequently with other Developers, ranging from apprentices, through to highly experienced professionals. Most of these people face the same daily challenges as we do. Mentoring is a great way of helping people learn based on our own knowledge and experiences. In return we often learn quite a lot from the people we teach.
     - image: /img/illustrations/iStock-492097416.jpg
       subheading: Consultancy
       text: >
         We our passionate about understanding our clients, learning about the problems you need solutions for, helping you achieve what you need to get done. This is where we realise the time spent researching ways of doing things, pays off.
-    - image: /img/illustrations/iStock-492097416.jpg
-      subheading: yoh
-      text: >
-        TO BE DECIDED
   heading: What we offer
   description: >
     Write about what we offer here
