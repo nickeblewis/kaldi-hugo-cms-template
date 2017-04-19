@@ -27,8 +27,7 @@ main:
   heading: Re-inventing the CMS
   description: >
     People for many years have been building their content rich sites using 
-    Wordpress and Drupal. In fact we used to build sites that way too, that was 
-    before we discovered the new way of doing it...
+    Wordpress and Drupal. In fact we used to build sites that way too, that was before we discovered the new way of doing it. The JAMStack is a whole new way of building sites where multiple people can add and edit content. It is more secure and faster to deploy updates to the web. No servers as such, just fast content distributed via CDN.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products/products-grid3.jpg
