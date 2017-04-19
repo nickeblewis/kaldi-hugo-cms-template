@@ -3,7 +3,7 @@ title: Go go Hugo
 date: 2017-04-18T15:04:10+01:00
 description: >-
   We make a big jump and move our site across to a new static site generator but what is all the fuss about?
-image: /img/blog/chemex.jpg
+image: /img/illustrations/iStock-625309490.jpg
 aliases: 
   - /2017/04/go-hugo
 categories: ["Development", "CMS", "Journal"]
@@ -29,9 +29,11 @@ We are highly dependable on Git to control our workflow as well as keeping versi
 
 ### Branching - Editorial flow
 
-The "Master" branch should never be edited directly, since we push our changes to master in order to deploy them to the live environment, essentially no different to publishing them.
+The "Master" branch should never be edited directly, since we push our changes to master in order to deploy them to the live environment, essentially no different to publishing them. So we tend to use branches and in order to apply the changes to the live site, we merge them. 
 
 ### Pushing - Publish the site changes
+
+Having merged changes to master this triggers a push action and tyhe live site updates once the deployment is complete. This is what is called continuous deployment and it makes things smooth and easy for us. 
 
 
 
