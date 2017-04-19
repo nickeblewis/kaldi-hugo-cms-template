@@ -20,6 +20,11 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     files:
+      - file: "site/content/aboutus.md"
+        label: "About Page"
+        name: "about"
+        fields:
+          - {label: Title, name: title, widget: string}
       - file: "site/content/services.md"
         label: "Services Page"
         name: "services"
