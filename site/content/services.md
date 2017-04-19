@@ -5,7 +5,7 @@ page: /services.html
 image: /img/products/iStock-518310016.jpg
 heading: What we offer
 description: >-
-  Write about what we offer here
+  We are a small digital consultancy providing services in CMS, Hosting, Copywriting, Design, Development, Photography, Video and Drones
 intro:
   blurbs:
     - image: /img/illustrations/iStock-505021766.jpg
@@ -21,8 +21,8 @@ intro:
       text: >
         We our passionate about understanding our clients, learning about the problems you need solutions for, helping you achieve what you need to get done. This is where we realise the time spent researching ways of doing things, pays off.
   heading: What we offer
-  description: >
-    Write about what we offer here
+  description: >-
+      We are a small digital consultancy providing services in CMS, Hosting,Copywriting, Design, Development, Photography, Video and Drones
 main:
   heading: Codeeducation
   description: >
