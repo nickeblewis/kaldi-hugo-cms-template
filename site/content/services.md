@@ -62,16 +62,24 @@ pricing:
   plans:
     - description: Just the bare essentials
       items:
-        - 3 lbs of coffee per month
+        - up to 10 pages
         - Green or roasted beans"
         - One or two varieties of beans"
+        - Copy
+        - Hosting
+        - Analytics
+        - SEO
       plan: Basic
       price: '50'
     - description: A medium scale site
       items:
-        - 6 lbs of coffee per month
+        - up to 100 pages
         - Green or roasted beans
         - Up to 4 different varieties of beans
+        - Copy
+        - Hosting
+        - Analytics
+        - SEO
       plan: Premium
       price: '80'
     - description: Sites that consist of greater content
@@ -80,6 +88,10 @@ pricing:
         - Green or roasted beans
         - Unlimited varieties
         - You will need to get a quote from us
+        - Copy
+        - Hosting
+        - Analytics
+        - SEO
       plan: Awesome
       price: '?'
 ---
