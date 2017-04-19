@@ -9,6 +9,7 @@ aliases:
 categories: ["Development", "CMS", "Journal"]
 tags: ["SSG"]
 type: Post
+draft: true
 ---
 
 I think the time has come for something new, not just a new HeadForCode website but a whole new revolution in building sites like this because I grew tired of Wordpress. Don't get me wrong Wordpress has been great and I still use it for my personal site [nicklewis.net](http://www.nicklewis.net) but for how much longer, I am not certain.
