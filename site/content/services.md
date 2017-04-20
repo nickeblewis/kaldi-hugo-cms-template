@@ -69,6 +69,7 @@ pricing:
         - Hosting
         - Analytics
         - SEO
+        - Disqus
       plan: Basic
       price: '50'
     - description: A medium scale site
@@ -80,6 +81,7 @@ pricing:
         - Hosting
         - Analytics
         - SEO
+        - Disqus
       plan: Premium
       price: '80'
     - description: Sites that consist of greater content
@@ -92,6 +94,7 @@ pricing:
         - Hosting
         - Analytics
         - SEO
+        - Disqus
       plan: Awesome
       price: '?'
 ---
