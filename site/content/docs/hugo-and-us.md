@@ -7,6 +7,8 @@ author: Nick Lewis
 
 _Todo: add screencast here_
 
+__TL;DR__
+
 We have switched to using Hugo from Phenomic, still hosting on Netlify and we have added their new app called Netlify CMS which is very clever and warrants an entire article or screencast of it's own. It is simple but very powerful. I mean that this way of building sites has up until now been very techie, not at all good for people who are not of a technical mindset, such as Rolf, however I think this setup will actually be a lot nicer to use, even when compared to Wordpress.
 
 In any case, I need to had this over to you, so that you can learn it and pretty much take over on the running of future sites, such as Carpnado. Incidentally we plan to catch up with them in May.
@@ -33,7 +35,7 @@ Apart from the mandatory Master branch, I am proposing we set up the following t
 
 * Dan
 * Nick
-* Courses - this aspect of the site isn't ready yet, so my thoughts are to hide the changes on the master branch and develop them for now under a branch of it their own
+* Courses - this aspect of the site isn't ready yet, so my thoughts are to hide the changes on the master branch and develop them under their own branch. YOu know already that we can switch between branches almost as if they are separate sites. Once happy we then merge them together and that in turn triggers a new build on the live server.
 * Services
 * About
 * Blog
