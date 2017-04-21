@@ -1,6 +1,7 @@
 ---
 title: Farnborough Guide
 type: Post
+date: 2017-04-21T15:47:09.708Z
 ---
 
 ## Events
