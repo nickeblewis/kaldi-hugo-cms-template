@@ -15,9 +15,18 @@ In any case, I need to had this over to you, so that you can learn it and pretty
 
 So here is a little bit of documentation on how to get up and running, plus some other ideas that have popped into my head
 
+## Hugo?
+
+Hugo is a static site generator and there are many that we could have chosen in it's place. We were using Phenomic for example which I found works very well but we are likely to hit thousands of pages as this site grows. The guys at Smashing Magazine for example switched to Hugo and so have other big online publishers..... why? Hugo is very fast in how it processes pages. There are many other benefits though that I have listed out here:
+
+* We write our content using markdown and that is great because Phenomic does too, we can copy our content over very easily - win!
+* Hugo runs on Mac, PC and Linux
+* Works with Netlify whom we've been using for awhile now
+* Oh so many other things, we will come across as we go along that are cool
+
 ## The Github repository
 
-Github as a back-end
+Github as a back-end is an exciting prospect and to be honest this [article explains it better than I can](https://snipcart.com/blog/netlify-cms-react-git-workflow?utm_source=Snipcart+email+subscribers&utm_campaign=486fda4eb8-mc-snip-march17-content-netlifycms&utm_medium=email&utm_term=0_3e16e05ea2-486fda4eb8-122819253), so go and have a [read](https://snipcart.com/blog/netlify-cms-react-git-workflow?utm_source=Snipcart+email+subscribers&utm_campaign=486fda4eb8-mc-snip-march17-content-netlifycms&utm_medium=email&utm_term=0_3e16e05ea2-486fda4eb8-122819253) of that!
 
 ## The Netlify account
 
