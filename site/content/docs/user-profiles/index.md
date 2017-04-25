@@ -1,7 +1,10 @@
 ---
 title: User Profiles
 type: Guide
+date: 2017-04-25T09:18:09.708Z
 ---
+
+*Please note this article will change constantly, will update you each time I change it*
 
 Let's use this page as our index for resources on user profiles and other ideas that we have to help complete the college module.
 
