@@ -1,6 +1,6 @@
 ---
 title: Hugo and us
-type: Post
+type: Guide
 date: 2017-04-21T10:37:09.708Z
 author: Nick Lewis
 ---
