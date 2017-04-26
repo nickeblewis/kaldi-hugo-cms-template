@@ -12,6 +12,17 @@ Let's use this page as our index for resources on user profiles and other ideas 
 
 Dan, I shall demonstrate how this works to you but here are some quick notes to start the conversation, please use the Disqus bit at the bottom to ask questions about this.
 
+### Netlify CMS
+
+Before reading any further, may I point you in the direction of some great resources for this CMS system:
+
+* Link 1
+* Link 2
+
+In a nutshell I can add you as a "collaborator" within GitHub, which in turn becomes our back-end of sorts. This will send you an email. If you were completely new to Github it would get you to register.
+
+You then go to http://www.headforcode.com/admin and you will see in the middle of the screen a button, click on that button and login to use the CMS back-end. You probably won't need to sign in next time, it will remember who you are.
+
 
 ## New User Profile feature for Farnborough Guide
 
