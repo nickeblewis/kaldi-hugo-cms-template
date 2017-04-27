@@ -8,10 +8,6 @@ description: >-
   We are a small digital consultancy providing services in CMS, Hosting, Copywriting, Design, Development, Photography, Video and Drones
 intro:
   blurbs:
-    - image: /img/illustrations/iStock-505021766.jpg
-      subheading: SSG
-      text: >
-        One aspect of being a developer, is that you, though you may not realise it, are a Researcher. We spend a lot of our time exploring ways of solving problems. So much so, that at times one thing leads to another and keeping track of where you are in the grand scheme of things is hard. We want to help solve this problem.
     - image: /img/illustrations/iStock-505642128.jpg
       subheading: Mentoring
       text: >
@@ -29,14 +25,14 @@ main:
     People for many years have been building their content rich sites using 
     Wordpress and Drupal. In fact we used to build sites that way too, that was before we discovered the new way of doing it. The JAMStack is a whole new way of building sites where multiple people can add and edit content. It is more secure and faster to deploy updates to the web. No servers as such, just fast content distributed via CDN.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products/products-grid3.jpg
+    alt: A speech bubble with the word content within
+    image: /img/illustrations/iStock-507474468.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products/products-grid2.jpg
+    alt: A speech bubble with the term social media within
+    image: /img/illustrations/iStock-516724936.jpg
   image3:
     alt: Coffee beans
-    image: /img/products/products-grid1.jpg
+    image: /img/illustrations/iStock-533229588.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
@@ -56,15 +52,12 @@ full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We make it easy to make great web sites and content a part of your life. Choose one of our
+    monthly subscription plans to start yours today.
   plans:
     - description: Just the bare essentials
       items:
         - up to 10 pages
-        - Green or roasted beans"
-        - One or two varieties of beans"
         - Copy
         - Hosting
         - Analytics
@@ -75,8 +68,6 @@ pricing:
     - description: A medium scale site
       items:
         - up to 100 pages
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
         - Copy
         - Hosting
         - Analytics
@@ -87,8 +78,6 @@ pricing:
     - description: Sites that consist of greater content
       items:
         - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
         - You will need to get a quote from us
         - Copy
         - Hosting
