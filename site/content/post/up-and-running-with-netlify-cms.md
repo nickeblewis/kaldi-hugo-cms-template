@@ -15,7 +15,3 @@ In order to use the Netlify CMS you simply need to add "/admin" onto the end of 
 
 Then you will be able to login using Github as your authentication provider.
 
-
-
-
-
